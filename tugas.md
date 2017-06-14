@@ -44,3 +44,26 @@ membantu lansia [@dp1] dan robot untuk edukasi [@dp2].
 - untuk pemakaian umum dan program yang kompleks
 - hemat daya, sekitar 1.5 Watt
 - harga sekitar 500 ribu
+
+## Spesifikasi[^spek2]
+
+- CPU: ARMv8 1.2 GHz *quad-core*
+- RAM: 1 GiB
+- Port Ethernet, HDMI, dan USB
+- Pin GPIO: 40
+- Wireless N
+
+[^spek2]: <https://www.raspberrypi.org/products/raspberry-pi-3-model-b/>
+
+##
+![Raspberry Pi 3](https://images-na.ssl-images-amazon.com/images/I/913XYU1VtjL._SL1500_.jpg)
+
+## Penelitian Terkait
+
+Raspberry Pi banyak dipakai untuk otomatisasi dan monitoring.
+@dp3 membangun sistem otomatisasi rumah berbasis e-mail, sedangkan
+@dp4 membangun jaringan monitoring lingkungan dengan Raspberry Pi dan Arduino.
+
+# FIN
+
+## Referensi
