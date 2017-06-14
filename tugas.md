@@ -6,9 +6,9 @@ date: 2017
 theme: dresden
 ---
 
-#Arduino
+# Arduino
 
-##Arduino Nano
+## Arduino Nano
 
 - Mikrokontroler
 - Menjalankan program sederhana terus-menerus
@@ -16,7 +16,7 @@ theme: dresden
 - Hemat daya, sekitar 0.18 Watt
 - Harga sekitar 35 ribu
 
-##Spesifikasi[^spek]
+## Spesifikasi[^spek]
 
 - Mikrokontroler: ATMega328P
 - Arsitektur: AVR
@@ -28,3 +28,19 @@ theme: dresden
 [^spek]: <https://www.arduino.cc/en/Main/arduinoBoardNano>
 
 ##
+![Arduino Nano](https://www.theengineeringprojects.com/wp-content/uploads/2014/05/Arduino-Nano-V3.0-in-Pakistan1.jpg)
+
+## Penelitian Terkait
+
+Arduino banyak dipakai pada bidang robotika. Misalnya robot untuk
+membantu lansia [@dp1] dan robot untuk edukasi [@dp2].
+
+# Raspberry Pi
+
+## Raspberry Pi 3 Model B
+
+- minikomputer
+- sistem operasi Linux
+- untuk pemakaian umum dan program yang kompleks
+- hemat daya, sekitar 1.5 Watt
+- harga sekitar 500 ribu
